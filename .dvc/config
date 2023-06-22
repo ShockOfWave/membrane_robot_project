@@ -1,0 +1,6 @@
+[core]
+    autostage = true
+    remote = s3_yandex
+['remote "s3_yandex"']
+    url = s3://membrane-robot-project
+    endpointurl = https://storage.yandexcloud.net/

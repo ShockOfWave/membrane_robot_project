@@ -93,3 +93,5 @@ lightning_logs/
 
 # models
 models/
+/data
+/models
